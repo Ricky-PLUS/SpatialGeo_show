@@ -19,6 +19,7 @@ ______________________________________________________________________
 ## Code
 You can obtain detailed information about the source code and model on the following website.
 
+(https://github.com/Ricky-PLUS/SpatialGeo)
 ______________________________________________________________________
 
 ## Spatial VQA Datasets
@@ -54,14 +55,14 @@ ______________________________________________________________________
 We select different types of questions from ***SpatialScore*** for presentation.
 <p align="center">
   <strong>Fig.4 Boundingboxs Distance</strong><br>
-  <img src="READMEimages/spatialscoreDepthanddistance.png" width="80%"/>
+  <img src="READMEimages/spatialscoredepthanddistance2.png" width="80%"/>
 </p>   
 
 <br>  <!-- 增加一个空行 -->
 
 <p align="center">
   <strong>Fig.5 Objects Distance</strong><br>
-  <img src="READMEimages/spatialscoredepthanddistance.png" width="80%"/>
+  <img src="READMEimages/spatialscoredepthanddistance1.png" width="80%"/>
 </p>    
 
 <br>  <!-- 增加一个空行 -->
