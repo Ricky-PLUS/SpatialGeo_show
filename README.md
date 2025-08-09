@@ -17,7 +17,7 @@ The overall architecture of ***SpatialGeo*** is shown in the figure below, which
 ______________________________________________________________________
 
 ## Code
-You can obtain detailed information about the source code and model on the following website  (https://github.com/Ricky-PLUS/SpatialGeo).
+You can obtain detailed information about the source code and model on the following [website](https://github.com/Ricky-PLUS/SpatialGeo).
 
 ______________________________________________________________________
 
